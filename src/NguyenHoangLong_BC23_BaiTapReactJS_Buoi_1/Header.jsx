@@ -6,7 +6,7 @@ export default class Header extends Component {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container px-lg-5">
-          <a className="navbar-brand" href="#!">
+          <a className="navbar-brand" target="_blank" href="https://getbootstrap.com/docs/5.1/getting-started/introduction/">
             Start Bootstrap
           </a>
           <button
