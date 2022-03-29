@@ -5,10 +5,10 @@ import Body_Item from './Body_Item'
 export default class Body extends Component {
   render() {
     return (
-      <div id="body">
+      <section id="body">
           <Body_Banner />
           <Body_Item />
-      </div>
+      </section>
     )
   }
 }

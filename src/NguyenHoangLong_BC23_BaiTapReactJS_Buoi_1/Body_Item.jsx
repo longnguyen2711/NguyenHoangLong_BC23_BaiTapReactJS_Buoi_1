@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Body_Item extends Component {
   render() {
     return (
-      <section className="pt-4">
+      <section id="bodyItem" className="pt-4">
         <div className="container px-lg-5">
           <div className="row gx-lg-5">
             <div className="col-lg-6 col-xxl-4 mb-5">

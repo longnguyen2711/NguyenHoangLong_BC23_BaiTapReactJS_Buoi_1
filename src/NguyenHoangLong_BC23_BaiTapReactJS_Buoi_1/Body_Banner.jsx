@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Body_Banner extends Component {
   render() {
     return (
-      <header className="py-5">
+      <header id="bodyBanner" className="py-5">
         <div className="container px-lg-5">
           <div className="p-4 p-lg-5 bg-light rounded-3 text-center">
             <div className="m-4 m-lg-5">
